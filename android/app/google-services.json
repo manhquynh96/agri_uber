@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387985580346",
+    "firebase_url": "https://agriuber-bf637.firebaseio.com",
+    "project_id": "agriuber-bf637",
+    "storage_bucket": "agriuber-bf637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387985580346:android:1d7be0a93dd37446b5b003",
+        "android_client_info": {
+          "package_name": "com.example.agri_uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387985580346-nte64oejtcn2fvgm7d7dv37sslcdh8qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ZFkbb0DjFS-AinpyCn1hlL8-XrzMWAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387985580346-nte64oejtcn2fvgm7d7dv37sslcdh8qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
